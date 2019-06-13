@@ -1,0 +1,8 @@
+Executable : C:\Users\t.corrihons\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\t.corrihons\Documents\Clay\Test\app\.externalNativeBuild\cmake\debug\x86_64
+--target
+filter
+jvmArgs : 
+

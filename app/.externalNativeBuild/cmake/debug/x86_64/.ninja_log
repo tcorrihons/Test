@@ -1,0 +1,7 @@
+# ninja log v5
+0	154	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	7bfa40f976be3b1e
+154	426	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libfilter.so	da9f29e752525680
+1	205	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	7bfa40f976be3b1e
+206	425	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libfilter.so	da9f29e752525680
+2	153	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	7bfa40f976be3b1e
+153	263	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libfilter.so	da9f29e752525680

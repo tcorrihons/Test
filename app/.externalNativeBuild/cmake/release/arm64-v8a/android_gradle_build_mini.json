@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\t.corrihons\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "filter-Release-arm64-v8a": {
+      "artifactName": "filter",
+      "buildCommand": "C:\\Users\\t.corrihons\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target filter",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libfilter.so"
+    }
+  }
+}

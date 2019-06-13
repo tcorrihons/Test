@@ -1,0 +1,7 @@
+# ninja log v5
+0	163	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	eaaa27c05d81f9e2
+163	513	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilter.so	7db8e80854ef7158
+1	226	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	eaaa27c05d81f9e2
+227	544	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilter.so	7db8e80854ef7158
+1	156	0	CMakeFiles/filter.dir/src/main/cpp/filter.cpp.o	eaaa27c05d81f9e2
+156	261	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilter.so	7db8e80854ef7158

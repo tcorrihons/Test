@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\t.corrihons\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "filter-Debug-armeabi-v7a": {
+      "artifactName": "filter",
+      "buildCommand": "C:\\Users\\t.corrihons\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target filter",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\t.corrihons\\Documents\\Clay\\Test\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libfilter.so"
+    }
+  }
+}
